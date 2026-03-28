@@ -1,4 +1,4 @@
 # demo_repo
-Git-GitHub workshop 26
+Git-GitHub workshop 2026
 
 This is new content
